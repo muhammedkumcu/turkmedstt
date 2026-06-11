@@ -9,7 +9,7 @@ inceleyen AcoSemantic değerlendirmesi uygulanmıştır.
 ## Proje Ekibi
 
 - Muhammed Kumcu - [@muhammedkumcu](https://github.com/muhammedkumcu)
-- Nur Yağmur Tuncer - [@yagmurtuncer](https://github.com/yagmurtuncer)
+- Nur Yağmur Tuncer - [@yagmurtuncer](https://github.com/yagmurtncr)
 
 Danışman: Doç. Dr. Ayşe Berna Altınel Girgin
 
