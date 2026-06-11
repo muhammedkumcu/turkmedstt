@@ -54,14 +54,22 @@ Model ağırlıkları, ses kayıtları ve yayımlanmış veri dosyaları GitHub 
 gereksiz büyütmemek için burada tekrar tutulmamaktadır. Bunlara yukarıdaki
 Hugging Face bağlantılarından erişilebilir.
 
+## Teslim Belgeleri
+
+- [Nihai bitirme raporu (DOCX)](TurkMedSTT_Rapor_MuhammedKUMCU_170422008_NurYagmurTUNCER_170423825.docx)
+- [Nihai bitirme raporu (PDF)](TurkMedSTT_Rapor_MuhammedKUMCU_170422008_NurYagmurTUNCER_170423825.pdf)
+- [Proje sunumu (PPTX)](TurkMedSTT_Sunum.pptx)
+
 ## Depo Yapısı
 
 ```text
+TurkMedSTT_Rapor_*.docx/pdf
+                      Nihai bitirme raporu
+TurkMedSTT_Sunum.pptx
+                      Proje sunumu
 apps/                 Hugging Face demo ve leaderboard uygulamaları
 configs/              Nihai benchmark model listesi
 docs/figures/         Sistem diyagramları ve temel sonuç grafikleri
-docs/thesis/          Nihai bitirme raporu (DOCX ve PDF)
-docs/presentation/    Proje sunumu (PPTX)
 results/              Benchmark, ince ayar ve gerçek konuşma sonuç özetleri
 scripts/              Veri hazırlama, eğitim, değerlendirme ve yayın betikleri
 static/               Yerel FastAPI arayüzünün statik dosyaları
