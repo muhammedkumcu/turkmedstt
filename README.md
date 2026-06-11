@@ -60,7 +60,8 @@ Hugging Face bağlantılarından erişilebilir.
 apps/                 Hugging Face demo ve leaderboard uygulamaları
 configs/              Nihai benchmark model listesi
 docs/figures/         Sistem diyagramları ve temel sonuç grafikleri
-docs/thesis/          Güncel bitirme tezi Word dosyası
+docs/thesis/          Nihai bitirme raporu (DOCX ve PDF)
+docs/presentation/    Proje sunumu (PPTX)
 results/              Benchmark, ince ayar ve gerçek konuşma sonuç özetleri
 scripts/              Veri hazırlama, eğitim, değerlendirme ve yayın betikleri
 static/               Yerel FastAPI arayüzünün statik dosyaları
@@ -103,9 +104,6 @@ ayarlanması gerekir. Komut örnekleri ve yöntem notları
 - Whisper temel modeli, LoRA adapterleri ve birleştirilmiş model ağırlıkları
 - Kişisel bilgiler, erişim anahtarları ve yerel makineye özgü dosyalar
 - Ara raporlar, geçici deney çıktıları, önbellekler ve yinelenen belgeler
-- Henüz tamamlanmamış proje sunumu
-
-Sunum tamamlandığında `docs/presentation/` altında ayrıca yayımlanacaktır.
 
 ## Etik ve Kullanım Sınırı
 
