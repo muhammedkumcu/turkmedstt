@@ -106,6 +106,10 @@ depoda bulunmadığından manifest yollarının kullanıcının veri konumuna g�
 ayarlanması gerekir. Komut örnekleri ve yöntem notları
 [Yeniden Üretim](docs/REPRODUCIBILITY.md) belgesindedir.
 
+Eğitim verisinin (~140 saatlik dengeli genel Türkçe set) ham veriden üretim
+reçetesi, temizleme kuralları ve istatistikleri için
+[Veri Hazırlama Reçetesi](docs/DATA_PIPELINE.md) belgesine bakınız.
+
 ## Depoya Dahil Edilmeyenler
 
 - Ham ve işlenmiş ses kayıtları
